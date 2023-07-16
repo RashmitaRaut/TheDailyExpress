@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">The Daily Express</string>
+
+    <string name="user_bio">"News Analyst"</string>
+    <string name="username">Username: Hazel Grace</string>
+    <string name="email">Email : hazelgrace@gmail.com</string>
+    <string name="Contact">Contact no: +91 9356650166</string>
+    <string name="Website">Website: www.hazelGrace.com</string>
+
+    <string name="feedback">Help us get better.\nFill the feedback form now!</string>
+
+</resources>
